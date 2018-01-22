@@ -1,4 +1,4 @@
-Tournament Results: A tournament database
+Tournament Results: A Tournament Database
 =========================================
 
 About
@@ -41,7 +41,7 @@ practices.
 Model
 -----
 
-![ER Model](tournament-results/docs/erd.png)
+![ER Model](https://github.com/brenj/tournament-results/raw/master/docs/erd.png)
 
 Install
 -------
